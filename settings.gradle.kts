@@ -15,4 +15,4 @@ dependencyResolutionManagement {
 
 rootProject.name = "RAWGDatabaseProject"
 include(":app")
- 
+include(":app:data")
